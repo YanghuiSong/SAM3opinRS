@@ -278,6 +278,8 @@ SAM3采用了"编码器生成特征，解码器解释特征"的清晰分工：
 ---
 <a name="cluster"></a>  
 # SAM3视觉特征分析：DATR前后的Patch Token对比
+[SAM3聚类可视化详细分析](https://github.com/YanghuiSong/SAM3opinRS/raw/main/Resizereport.pdf)
+
 
 ## 实验概述
 
